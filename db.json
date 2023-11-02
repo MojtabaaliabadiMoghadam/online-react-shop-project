@@ -1,0 +1,8 @@
+{
+    "posts": [
+      { "id": 1, "title": "هدست تسکو مدل t-530", "price": "800 هزار تومان","img" : "https://www.uplooder.net/img/image/79/a13043e7cfda1ca7ac37130213cca376/p1.jpg" },
+      { "id": 2, "title": "هدست تسکو مدل w-540", "price": "405 هزار تومان","img" : "https://www.uplooder.net/img/image/38/c4da3122ff1cb61c8c10154ceec80d98/p2.jpg" },
+      { "id": 3, "title": "هدست تسکو مدل w-540", "price": "405 هزار تومان","img" : "https://www.uplooder.net/img/image/53/33105d282973ab0eb1585ea56780d4af/p3.jpg" },
+      { "id": 4, "title": "هدست تسکو مدل uh-340", "price": "660 هزار تومان","img" : "https://www.uplooder.net/img/image/29/5eceff866a7ec3b1f96e38f2f3efaa68/p4.jpg" }
+    ]
+  }
