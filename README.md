@@ -1,3 +1,9 @@
+این برنامه یک شبیه ساز سایت فروشگاهی است که ui آن با html , css طراحی شده و قابلیت login و دریافت اطلاعات و نمایش آن از سرور فیک توسط react انجام شده است 
+
+
+
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
